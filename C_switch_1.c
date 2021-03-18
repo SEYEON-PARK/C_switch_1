@@ -7,13 +7,13 @@ int main(void)
 	switch (a)
 	{
 	case 0: 
-		printf("0�Դϴ�.\n");
+		printf("0입니다.\n");
 		break;
 	case 1:
-		printf("1�Դϴ�.\n");
+		printf("1입니다.\n");
 		break;
 	case 2: 
-		printf("2�Դϴ�.\n");
+		printf("2입니다.\n");
 	default:
 		break;
 	}
