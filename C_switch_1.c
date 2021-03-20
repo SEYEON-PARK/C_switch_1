@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int a = 1;
+	int a = 1; // 초기화
 
 	switch (a)
 	{
