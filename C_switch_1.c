@@ -14,9 +14,10 @@ int main(void)
 		break;
 	case 2: 
 		printf("2입니다.\n");
+		break;
 	default:
 		break;
-	} // switch문 사용하기
+	} // switch문 사용하여 출력하기
 
 	return 0;
 }
