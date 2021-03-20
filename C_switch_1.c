@@ -16,7 +16,7 @@ int main(void)
 		printf("2입니다.\n");
 	default:
 		break;
-	}
+	} // switch문 사용하기
 
 	return 0;
 }
